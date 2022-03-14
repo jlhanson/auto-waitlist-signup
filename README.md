@@ -1,2 +1,2 @@
 # auto-waitlist-signup
-A quick signup sheet used for waitwhile.com queue
+A quick project used for waitwhile.com queue, utilizing python and selenium to automate sign-up when the sign-up page goes live.
